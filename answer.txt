@@ -10,4 +10,4 @@ Ans. Fast-forward means when you merge master to a branch, and that branch is ah
 Ans. Branching creates another line of development that is entirely different or isolated from the main stable master branch this will help in isolating their work from others.
 
 • In a project how many remote Git repositories do you usually have?
-Ans. In general we use only one repository. But there is no such limit in a project.
+Ans. In general we use only one repository. But there is no such limit in a project you can have any number of repositories. 
